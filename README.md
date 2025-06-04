@@ -7,4 +7,4 @@
 
 
 ## Зависимости
-- Библиотеки: TensorFlow, Keras, Pandas, Pillow, scikit-image.
+- Библиотеки: TensorFlow, Keras, Pandas, Pillow, scikit-image, os, NumPy, urlopen, matplotlib, shutil, PIL, re, time.
